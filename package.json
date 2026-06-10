@@ -1,0 +1,24 @@
+{
+  "name": "x3x1",
+  "version": "1.0.0",
+  "description": "A slack bot that appends \"sahur\" to a message after a word has been repeated three times in a single message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colorBanded/x3x1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colorBanded/x3x1/issues"
+  },
+  "homepage": "https://github.com/colorBanded/x3x1#readme",
+  "dependencies": {
+    "@slack/bolt": "^4.7.3",
+    "dotenv": "^17.4.2"
+  }
+}
