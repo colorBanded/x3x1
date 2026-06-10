@@ -29,7 +29,7 @@ app.command("/x3-help", async ({ ack, respond }) => {
 /x3-help - Show this help message`
   });
 });
-ssdsdssdd
+
 app.command("/x3-append", async ({ command, ack, client }) => {
   await ack();
 
